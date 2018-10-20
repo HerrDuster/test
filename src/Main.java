@@ -11,6 +11,7 @@ public class Main {
         formula1.setSize(1100, 600);
         formula1.add(new Road());
         formula1.setVisible(true);
+formula1.setVisible(true);
 
     }
 }
